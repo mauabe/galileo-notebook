@@ -1,14 +1,18 @@
-# Galielo Notebook
+# Galileo Notebook
+
+![Galileo Notebok](/img/galileo_moon.png)
 
 A Python program to translate Jupyter notebooks into html.
 
-A sample project that exists as an aid to the [Python Packaging User
-Guide][packaging guide]'s [Tutorial on Packaging and Distributing
-Projects][distribution tutorial].
+This is a work in progress. 
+Here is a short list of tasks currently in progress:
 
-This project does not aim to cover best practices for Python project
-development as a whole. For example, it does not provide guidance or tool
-recommendations for version control, documentation, or testing.
+- [] Create pycache
+- [] Create tests
+- [] Setup CI
+---
+
+Here is a link on how to setup a Python project: `https://github.com/pypa/sampleproject` [packaging guide].
 
 [The source for this project is available here][src].
 
